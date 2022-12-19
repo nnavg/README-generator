@@ -1,4 +1,4 @@
-# readme file generator 
+# readme file generator
 
   
   [![MIT License license](https://img.shields.io/badge/License-MIT License-blue.svg)](https://lbesson.mit-license.org/)
@@ -13,22 +13,22 @@
   - [Questions](#email)
 
   ## Description
-  enter description here
+  enter your description over here 
 
   ## Installation
-  instructions for installation
+  instruction details here 
 
   ## Usage
-  instructions for usage
+  usage instructions here
 
   ## Licenses
     This project is covered under the MIT License.
 
   ## Contributing
-  enter contribution details here
+  contribution details here
 
   ## Tests
-  test info here
+  enter test information here
 
   ## Questions
   Email: nsgngng@gmail.com
