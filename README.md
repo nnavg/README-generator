@@ -5,7 +5,13 @@ Welcome to the ReadMe generator. This will help you create a ReadMe file quickly
 # Screenshots of the ReadMe Generator
 
 
+<img width="1440" alt="ss 1 readme gen" src="https://user-images.githubusercontent.com/109480025/208504345-4960ac98-3921-4ddf-8020-7dbef32f697e.png">
 
+
+<img width="1440" alt="ss 2 readme gen" src="https://user-images.githubusercontent.com/109480025/208504375-c60ae5d4-c415-46bb-9605-8ba2454cf659.png">
+
+
+<img width="1440" alt="ss 3 readme gen" src="https://user-images.githubusercontent.com/109480025/208504386-968c5243-af4e-44ec-8f67-ef3bd3291e4d.png">
 
 
 
@@ -23,4 +29,4 @@ Welcome to the ReadMe generator. This will help you create a ReadMe file quickly
 
 # Links
 
-Demo video: 
+Demo video: https://drive.google.com/file/d/1-cS8NxXyeyEIciYOfdLX1zT7jC3Ro6C5/view
